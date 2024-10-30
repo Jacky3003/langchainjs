@@ -69,5 +69,8 @@
       "eslint --cache --fix"
     ],
     "*.md": "prettier --config .prettierrc --write"
+  },
+  "dependencies": {
+    "node-llama-cpp": "3.1.1"
   }
 }
